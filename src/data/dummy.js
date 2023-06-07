@@ -12,7 +12,7 @@ import { GiLouvrePyramid } from 'react-icons/gi';
 import { GrLocation } from 'react-icons/gr';
 import avatar from './avatar.jpg';
 import avatar2 from './avatar2.jpg';
-import avatar3 from './avatar3.png';
+import avatar3 from './avatar3.jpg';
 import avatar4 from './avatar4.jpg';
 import product1 from './product1.jpg';
 import product2 from './product2.jpg';
@@ -471,37 +471,37 @@ export const employeesGrid = [
 
 export const links = [
   {
-    title: 'Dashboard',
+    title: 'Panel główny',
     links: [
       {
-        name: 'ecommerce',
+        name: 'sklep',
         icon: <FiShoppingBag />,
       },
     ],
   },
 
   {
-    title: 'Pages',
+    title: 'Strony',
     links: [
       {
-        name: 'orders',
+        name: 'zamówienia',
         icon: <AiOutlineShoppingCart />,
       },
       {
-        name: 'employees',
+        name: 'pracownicy',
         icon: <IoMdContacts />,
       },
       {
-        name: 'customers',
+        name: 'klienci',
         icon: <RiContactsLine />,
       },
     ],
   },
   {
-    title: 'Apps',
+    title: 'Aplikacje',
     links: [
       {
-        name: 'calendar',
+        name: 'kalendarz',
         icon: <AiOutlineCalendar />,
       },
       {
@@ -509,49 +509,49 @@ export const links = [
         icon: <BsKanban />,
       },
       {
-        name: 'editor',
+        name: 'edytor',
         icon: <FiEdit />,
       },
       {
-        name: 'color-picker',
+        name: 'wybór koloru',
         icon: <BiColorFill />,
       },
     ],
   },
   {
-    title: 'Charts',
+    title: 'Wykresy',
     links: [
       {
-        name: 'line',
+        name: 'liniowy',
         icon: <AiOutlineStock />,
       },
       {
-        name: 'area',
+        name: 'warstwowy',
         icon: <AiOutlineAreaChart />,
       },
 
       {
-        name: 'bar',
+        name: 'słupkowy',
         icon: <AiOutlineBarChart />,
       },
       {
-        name: 'pie',
+        name: 'kołowy',
         icon: <FiPieChart />,
       },
       {
-        name: 'financial',
+        name: 'finansowy',
         icon: <RiStockLine />,
       },
       {
-        name: 'color-mapping',
+        name: 'mapa kolorów',
         icon: <BsBarChart />,
       },
       {
-        name: 'pyramid',
+        name: 'piramida',
         icon: <GiLouvrePyramid />,
       },
       {
-        name: 'stacked',
+        name: 'kolumnowy',
         icon: <AiOutlineBarChart />,
       },
     ],
