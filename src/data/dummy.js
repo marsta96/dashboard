@@ -586,39 +586,39 @@ export const chatData = [
   {
     image:
       avatar2,
-    message: 'Roman Joined the Team!',
-    desc: 'Congratulate him',
-    time: '9:08 AM',
+    message: 'Masz nowego członka zespołu',
+    desc: 'Przydziel zadania',
+    time: '9:08',
   },
   {
     image:
       avatar3,
-    message: 'New message received',
-    desc: 'Salma sent you new message',
-    time: '11:56 AM',
+    message: 'Nowa wiadomość',
+    desc: 'Jared przysłał wiadomość',
+    time: '22:56',
   },
   {
     image:
       avatar4,
-    message: 'New Payment received',
-    desc: 'Check your earnings',
-    time: '4:39 AM',
+    message: 'Gdzie jest Nemo????',
+    desc: 'Zaginęła rybka!!!',
+    time: '4:39',
   },
   {
     image:
       avatar,
-    message: 'Jolly completed tasks',
-    desc: 'Assign her new tasks',
-    time: '1:12 AM',
+    message: 'Upłynął termin zadania',
+    desc: 'Uzupełnij zadanie',
+    time: '231:59',
   },
 ];
 
 export const earningData = [
   {
     icon: <MdOutlineSupervisorAccount />,
-    amount: '39,354',
+    amount: '60,777',
     percentage: '-4%',
-    title: 'Customers',
+    title: 'Klienci',
     iconColor: '#03C9D7',
     iconBg: '#E5FAFB',
     pcColor: 'red-600',
@@ -627,7 +627,7 @@ export const earningData = [
     icon: <BsBoxSeam />,
     amount: '4,396',
     percentage: '+23%',
-    title: 'Products',
+    title: 'Produkty',
     iconColor: 'rgb(255, 244, 229)',
     iconBg: 'rgb(254, 201, 15)',
     pcColor: 'green-600',
@@ -636,7 +636,7 @@ export const earningData = [
     icon: <FiBarChart />,
     amount: '423,39',
     percentage: '+38%',
-    title: 'Sales',
+    title: 'Sprzedaż',
     iconColor: 'rgb(228, 106, 118)',
     iconBg: 'rgb(255, 244, 229)',
 
@@ -646,7 +646,7 @@ export const earningData = [
     icon: <HiOutlineRefresh />,
     amount: '39,354',
     percentage: '-12%',
-    title: 'Refunds',
+    title: 'Koszty',
     iconColor: 'rgb(0, 194, 146)',
     iconBg: 'rgb(235, 250, 242)',
     pcColor: 'red-600',
